@@ -8,5 +8,9 @@ API for User Authentication with Node.js
 4.The API will be accessible at http://localhost:4000<br>
 
 ###
-#Endpoints: 
+#Endpoints
+/users  : list no of users <br>
+/SignIn : post request to add user and return username,hash password,token,message <br>
+/verifyuser <br>
+/login <br>
   
