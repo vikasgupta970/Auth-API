@@ -1,0 +1,39 @@
+GET http://localhost:4000/
+
+###
+
+POST http://localhost:4000/SignIn 
+Content-Type: application/json
+
+{
+    "username":"Vikas",
+    "password":"vikasgupta"
+} 
+
+###
+POST http://localhost:4000/SignIn 
+Content-Type: application/json
+
+{
+    "username":"Sanjay",
+    "password":"SanjayGangwar"
+} 
+
+###
+POST http://localhost:4000/login
+Content-Type: application/json
+
+{
+    "username":"Sanjay",
+    "password":"SanjayGangwar"
+} 
+
+
+###
+POST https://localhost:4000/verifyuser
+Content-Type:application/json
+
+{
+    "token":"eyJhbGciOiJIUzI1NiJ9.VmlrYXM.kJ10DueA9heP9OA2j3zNtbTuxbr-kqCy3gqG77TP4TY"
+}
+
