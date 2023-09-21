@@ -3,5 +3,5 @@ API for User Authentication with Node.js
 
 1.Navigate to the project directory:
 2.Install dependencies:
-  npm install
+  <code>npm install</code>
   
