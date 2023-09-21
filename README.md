@@ -4,4 +4,9 @@ API for User Authentication with Node.js
 1.Navigate to the project directory:<br>
 2.Install dependencies:<br>
   <code>npm install</code>
+3.Start the server
+4.The API will be accessible at http://localhost:4000
+
+###
+-Endpoints : 
   
