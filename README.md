@@ -8,5 +8,5 @@ API for User Authentication with Node.js
 4.The API will be accessible at http://localhost:4000<br>
 
 ###
-- <h1>Endpoints</h1> : 
+#Endpoints: 
   
